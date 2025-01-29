@@ -1,6 +1,0 @@
-# Ignorar arquivos do sistema e temporários
-.DS_Store
-.idea/
-*.db
-*.zip
-*.crdownload
